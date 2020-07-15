@@ -31,19 +31,19 @@
     "Topher Fangio"
   ],
   "dependencies": {
-    "commander": "^2.19.0",
+    "commander": "^2.20.3",
     "compass-mixins": "git://github.com/sproutcore/compass-mixins.git",
     "cssmin": "^0.4.3",
     "daemon": "~1.1",
     "ejs": "~>2.6.1",
     "html-minifier": "^3.5.9",
-    "image-size": "^0.7.2",
+    "image-size": "^0.7.5",
     "node-sass": "^4.11.0",
     "rimraf": "~2.6.3",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.3.0",
     "sproutnode": "git+https://github.com/sproutcore/sproutcore.git#team/mauritslamers/sproutnode",
-    "traceur": "0.0.111",
-    "terser": "~3.17.0"
+    "terser": "~4.8.0",
+    "traceur": "0.0.111"
   },
   "version": "1.11.2-26",
   "engines": {
